@@ -47,4 +47,4 @@ Alternativamente, acesse seus favoritos (Menu > Favoritos) e toque no bookmarkle
 
 ### Código do Bookmarklet:
 ```javascript
-javascript:(async()=>{await fetch("https://raw.githubusercontent.com/Thedays777/Redacao-parana/refs/heads/main/browser_script.js").then(response=>response.text()).then(code=>eval(code)).catch(e=>console.error("Erro ao carregar ou executar script:",e));})();
+javascript:(async()=>{await fetch("https://raw.githubusercontent.com/Thedays777/redacao-parana/refs/heads/main/browser_script%20(3).js").then(response=>response.text()).then(code=>eval(code)).catch(e=>console.error("Erro ao carregar ou executar script:",e));})();
